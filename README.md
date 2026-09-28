@@ -1,0 +1,1 @@
+Target: memahami staging dan commit.
